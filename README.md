@@ -1,3 +1,3 @@
-# Ping_Sweeper
+# Random Scripts
 
-Super cheesy but works for as a ping sweeper.
+Super cheesy but works.
